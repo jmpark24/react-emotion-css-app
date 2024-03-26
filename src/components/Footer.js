@@ -25,7 +25,7 @@ const Footer = ({ isDark, setIsDark }) => {
           cursor: pointer;
 
           &:hover {
-            transform: translate(-2px);
+            transform: translateY(-2px);
           }
         `}
       >
